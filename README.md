@@ -1,6 +1,6 @@
 ### Eae!? Eu sou o Pedro Alves de Oliveira
 
-- ☕ Aprendendo Java, Python e JavaScript;
+- ☕ Aprendendo Java, Python, JavaScript e C#;
 - 🐘 Nível Beginner em PHP..
 - 👽 Conhecimento básico em HTML, CSS, SQL e C..
 
