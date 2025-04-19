@@ -2,7 +2,9 @@
 
 "Com grandes poderes vem grandes responsabilidades"
 
-- ☕ Aprendendo Java;
+- ☕ Aprendendo Java, Python e JavaScript;
+- 🐘 Nível Beginner em PHP..
+- 👽 Nível Beginner em SQL..
 
 <div>
   <a href="https://github.com/PedroAlvss"></a>
