@@ -4,7 +4,7 @@
 
 - ☕ Aprendendo Java, Python e JavaScript;
 - 🐘 Nível Beginner em PHP..
-- 👽 Nível Beginner em SQL..
+- 👽 Conhecimento básico em HTML, CSS, SQL e C..
 
 <div>
   <a href="https://github.com/PedroAlvss"></a>
