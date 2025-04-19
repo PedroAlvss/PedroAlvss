@@ -1,6 +1,2 @@
 *.hack linguist-detectable=false
 *.hh linguist-detectable=false
-
-git add .gitattributes
-git commit -m "Ajuste para exibir apenas PHP no GitHub"
-git push
