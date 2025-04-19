@@ -2,7 +2,7 @@
 
 - ☕ Aprendendo Java, Python, JavaScript e C#;
 - 🐘 Nível Beginner em PHP..
-- 👽 Conhecimento básico em HTML, CSS, SQL e C..
+- 👽 Conhecimento básico em HTML, CSS e C..
 
 <div>
   <a href="https://github.com/PedroAlvss"></a>
