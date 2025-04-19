@@ -1,4 +1,4 @@
-### Eae!? Eu sou o Pedro Alves
+### Eae!? Eu sou o Pedro Alves de Oliveira
 
 - ☕ Aprendendo Java, Python e JavaScript;
 - 🐘 Nível Beginner em PHP..
