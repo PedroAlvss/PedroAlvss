@@ -1,6 +1,4 @@
-### Eae!? Eu sou o Pedro Alves, fico muito feliz em ver você aqui!
-
-"Com grandes poderes vem grandes responsabilidades"
+### Eae!? Eu sou o Pedro Alves e no momento estou:
 
 - ☕ Aprendendo Java, Python e JavaScript;
 - 🐘 Nível Beginner em PHP..
