@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pedro Alves de Oliveira 👋
 
 - ☕ Estudando Java, Python, JavaScript e C#;
-- 🐘 Nível iniciante em PHP;
+- 🐘 Nível intermediário em PHP;
 - 👽 Conhecimento inicial em HTML, CSS e C.
 
 <br>
